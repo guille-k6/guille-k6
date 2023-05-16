@@ -26,7 +26,7 @@ I'm a Developer and System Engineering student. Passionate about leveraging tech
 
 # 📊 GitHub Stats:
 <div align='center' style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=guille-k6l&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guille-k6&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guille-k6&theme=dracula&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guille-k6&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </div>
