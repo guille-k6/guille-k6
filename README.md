@@ -26,9 +26,9 @@ I'm a Developer and System Engineering student. Passionate about leveraging tech
 
 # 📊 GitHub Stats:
 <div align='center' style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Facugl&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Facugl&theme=dracula&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guille-k6l&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guille-k6&theme=dracula&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guille-k6&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
 ![GitHub Snake dark](https://github.com/Facugl/guille-k6/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
