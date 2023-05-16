@@ -1,6 +1,6 @@
 <img align="right" alt="Github cat" height="140px" src="https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif"/>
 
-<h1 align="center">Hi, I'm Guillermo. A developer from Argentina 👨‍.</h1>
+<h1 align="center">Hi, I'm Guillermo. A developer from Argentina.</h1>
 
 # 👨‍💻 About me:
 I'm a Developer and System Engineering student. Passionate about leveraging technology to drive business growth and enhance customer experiences.
