@@ -18,7 +18,7 @@ I'm a Developer and System Engineering student. Passionate about leveraging tech
 
 ---
 
-# 📬  Connect whit me:
+# 📬  Connect with me:
 [<img src="https://img.shields.io/badge/Email-guillermogcasey%40gmail.com-ea4335">](mailto:guillermogcasey@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-GuillermoCasey-166CA5">](https://www.linkedin.com/in/guillermo-casey-48045320b/)
 
