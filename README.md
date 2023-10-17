@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Guillermo. A developer from Argentina.</h1>
 
 # 👨‍💻 About me:
-I'm a Developer and System Engineering student. Passionate about leveraging technology to drive business growth and enhance customer experiences.
+I'm a Developer and System Engineering student. I enjoy developing solutions to complex business needs using programming.
 
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/github/followers/guille-k6?label=follow&logo=github&style=flat" />
