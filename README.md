@@ -1,4 +1,4 @@
-<img align="right" alt="Github cat" height="44px" src="https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif"/>
+<img align="right" alt="Github cat" height="60px" src="https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif"/>
 
 # Hi, I'm Guillermo. A developer from Argentina.
 
